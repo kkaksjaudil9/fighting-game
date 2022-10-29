@@ -1,1 +1,2 @@
 teszt goku
+teszt vegita
